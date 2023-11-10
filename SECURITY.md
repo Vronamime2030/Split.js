@@ -12,6 +12,6 @@ This is my first versionn Test
 | < 4.0   | :red_circle:       |
 
 ## Reporting a Vulnerability
-To report  vulnerabilitiesshoot me and email at vronamime2030@gmail.com
+To report  vulnerabilities shoot me and email at vronamime2030@gmail.com
 
 I will respond to any reports withinn 24 hours by email.
